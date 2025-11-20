@@ -13,8 +13,8 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 <img src="screenshot.png" alt="Screenshot"/><br/>
 
 ### About
-First try to create a eldritch Theme for my favorite editor emacs.
-Hope you like it. Sticks to the official SPEC as possible.
+First try to create a eldritch Theme for my favorite editor emacs.  
+Adheres as closely as possible to the official specification.
 
 ### Installation
 1. Clone the Repo to your .emacs.d Folder e.g. ```git clone https://github.com/Saboti/eldritch.emacs ~/.emacs.d/themes/```
