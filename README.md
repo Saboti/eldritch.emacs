@@ -17,7 +17,8 @@ First try to create a eldritch Theme for my favorite editor emacs.
 Adheres as closely as possible to the official specification.
 
 ### Installation
-1. Clone the Repo to your .emacs.d Folder e.g. ```git clone https://github.com/Saboti/eldritch.emacs ~/.emacs.d/themes/```
+1. Clone the Repo to your .emacs.d Folder e.g.  
+```git clone https://github.com/Saboti/eldritch.emacs ~/.emacs.d/themes/```
 2. Add to your init.el
 ``` emacs-lisp
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
