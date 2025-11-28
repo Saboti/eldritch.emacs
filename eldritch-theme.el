@@ -1,6 +1,6 @@
-;;; mein-eldritch-theme.el --- Custom theme based on eldritch -*- lexical-binding: t; -*-
+;;; eldritch-theme.el --- Custom theme based on eldritch -*- lexical-binding: t; -*-
 
-(deftheme mein-eldritch
+(deftheme eldritch
   "A theme inspired by eldritch.")
 
 (let ((class '((class color) (min-colors 89)))
@@ -53,7 +53,7 @@
       (eld-git-delete    "#f16c75")) ; Git delete
 
   (custom-theme-set-faces
-   'mein-eldritch
+   'eldritch
 
    ;; === Core Faces ===
    `(default ((,class (:background ,eld-bg :foreground ,eld-fg))))
@@ -374,5 +374,5 @@
 
    ))
 
-(provide-theme 'mein-eldritch)
-;;; mein-eldritch-theme.el ends here
+(provide-theme 'eldritch)
+;;; eldritch-theme.el ends here
